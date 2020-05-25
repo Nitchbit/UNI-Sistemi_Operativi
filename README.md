@@ -1,4 +1,4 @@
-# Project_OperativeSystemsLab-2019
+# Project_OperatingSystemsLab-2019
 Simple client-server architecture that represents a "Object-Store" like system 
 
 # Files
